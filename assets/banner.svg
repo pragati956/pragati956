@@ -1,0 +1,106 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+<title>Pragati Singh — Full Stack MERN Developer, AI Enthusiast, MCA at MNNIT Allahabad</title>
+<defs>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0B0F19"/>
+    <stop offset="55%" stop-color="#0D1220"/>
+    <stop offset="100%" stop-color="#111A30"/>
+  </linearGradient>
+  <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#67E8F9"/>
+    <stop offset="55%" stop-color="#5EA9FF"/>
+    <stop offset="100%" stop-color="#818CF8"/>
+  </linearGradient>
+  <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#6366F1"/>
+  </linearGradient>
+  <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="aiDot" cx="35%" cy="35%" r="65%">
+    <stop offset="0%" stop-color="#67E8F9"/>
+    <stop offset="100%" stop-color="#818CF8"/>
+  </radialGradient>
+  <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="45"/>
+  </filter>
+  <pattern id="dotGrid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="1.2" cy="1.2" r="1.2" fill="#FFFFFF" fill-opacity="0.05"/>
+  </pattern>
+</defs>
+
+<rect x="0" y="0" width="1600" height="500" fill="url(#bgGrad)"/>
+<rect x="0" y="0" width="1600" height="500" fill="url(#dotGrid)"/>
+
+<circle cx="1420" cy="70" r="230" fill="url(#glowCyan)" filter="url(#softBlur)"/>
+<circle cx="120" cy="470" r="200" fill="url(#glowBlue)" filter="url(#softBlur)"/>
+<circle cx="980" cy="460" r="160" fill="url(#glowCyan)" filter="url(#softBlur)" opacity="0.5"/>
+
+<text x="60" y="150" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="150" font-weight="700" fill="#FFFFFF" fill-opacity="0.035">&lt;/&gt;</text>
+
+<circle cx="112" cy="98" r="34" fill="url(#avatarGrad)" fill-opacity="0.9"/>
+<text x="112" y="106" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#0B0F19" text-anchor="middle">PS</text>
+
+<rect x="164" y="76" width="300" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.05" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1"/>
+<text x="188" y="102" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="1.5" fill="#67E8F9">MCA @ MNNIT ALLAHABAD</text>
+
+<text x="90" y="222" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="700" fill="url(#nameGrad)">Pragati Singh</text>
+
+<text x="92" y="272" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="500" fill="#E7ECF9">Full Stack MERN Developer</text>
+<text x="92" y="305" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="400" fill="#93A3C4">AI Enthusiast, building intelligent web apps</text>
+
+<line x1="92" y1="330" x2="560" y2="330" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+
+<rect x="92" y="352" width="92" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+<circle cx="110" cy="373" r="5" fill="#38BDF8"/>
+<text x="124" y="378" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#DCE3F5">React</text>
+
+<rect x="198" y="352" width="108" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+<circle cx="216" cy="373" r="5" fill="#84CC16"/>
+<text x="230" y="378" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#DCE3F5">Node.js</text>
+
+<rect x="320" y="352" width="122" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+<circle cx="338" cy="373" r="5" fill="#10B981"/>
+<text x="352" y="378" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#DCE3F5">MongoDB</text>
+
+<rect x="456" y="352" width="150" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.04" stroke="#7DD3FC" stroke-opacity="0.3" stroke-width="1"/>
+<circle cx="474" cy="373" r="5" fill="url(#aiDot)"/>
+<text x="488" y="378" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#DCE3F5">Generative AI</text>
+
+<text x="92" y="452" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#56618A">github.com/pragati956</text>
+
+<rect x="900" y="70" width="610" height="360" rx="16" fill="#0F1526" fill-opacity="0.65" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+
+<circle cx="924" cy="94" r="6" fill="#FF5F57"/>
+<circle cx="946" cy="94" r="6" fill="#FFBD2E"/>
+<circle cx="968" cy="94" r="6" fill="#28C840"/>
+<text x="990" y="99" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#7C88A6">developer.js</text>
+<line x1="900" y1="114" x2="1510" y2="114" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+
+<text x="930" y="156" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="17"><tspan fill="#22D3EE">const</tspan><tspan fill="#E7ECF9"> developer = {</tspan></text>
+<text x="954" y="190" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="17"><tspan fill="#7DD3FC">name</tspan><tspan fill="#64748B">: </tspan><tspan fill="#FBBF24">"Pragati Singh"</tspan><tspan fill="#64748B">,</tspan></text>
+<text x="954" y="224" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="17"><tspan fill="#7DD3FC">role</tspan><tspan fill="#64748B">: </tspan><tspan fill="#FBBF24">"Full Stack Developer"</tspan><tspan fill="#64748B">,</tspan></text>
+<text x="954" y="258" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="17"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#64748B">: [</tspan><tspan fill="#FBBF24">"React"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#FBBF24">"Node"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#FBBF24">"MongoDB"</tspan><tspan fill="#64748B">],</tspan></text>
+<text x="954" y="292" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="17"><tspan fill="#7DD3FC">focus</tspan><tspan fill="#64748B">: </tspan><tspan fill="#FBBF24">"Generative AI"</tspan></text>
+<text x="930" y="326" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="17" fill="#E7ECF9">};</text>
+<text x="930" y="368" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" font-style="italic" fill="#4B5B7C">// turning ideas into deployed products</text>
+
+<g stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1">
+  <line x1="1455" y1="400" x2="1490" y2="378"/>
+  <line x1="1455" y1="400" x2="1500" y2="412"/>
+  <line x1="1455" y1="400" x2="1470" y2="430"/>
+  <line x1="1490" y1="378" x2="1500" y2="412"/>
+</g>
+<circle cx="1455" cy="400" r="5" fill="#22D3EE"/>
+<circle cx="1490" cy="378" r="4" fill="#67E8F9"/>
+<circle cx="1500" cy="412" r="4.5" fill="#818CF8"/>
+<circle cx="1470" cy="430" r="3.5" fill="#38BDF8"/>
+
+<text x="800" y="475" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#4B5B7C" text-anchor="middle">Turning ideas into deployed products</text>
+</svg>
