@@ -91,7 +91,7 @@ Real-time AI creative studio on the MERN stack — grew from a text-to-image Saa
 </td>
 <td width="50%">
 
-**📄 [DocuMind](https://github.com/pragati956/DocuMind)** · [Live Demo](https://YOUR-DOCUMIND-LIVE-URL)
+**📄 [DocuMind](https://github.com/pragati956/DocuMind)** · [Live Demo](documind-pink-delta.vercel.app)
 
 AI-powered document management platform to upload, organize, search, and summarize documents using Gemini AI, with Cloudinary storage and JWT/OAuth authentication.
 
@@ -136,13 +136,7 @@ RESTful backend API for a banking ledger system with account management, transac
 
 </div>
 
-**Most used languages**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati956&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-
-</div>
 
 ---
 
