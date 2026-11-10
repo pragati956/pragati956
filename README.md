@@ -19,7 +19,16 @@
 - 💻 Passionate about building **full-stack, AI-integrated web applications**
 - 🧩 Comfortable across the stack — **React, Node.js, Express, MongoDB**
 - 🤖 Currently exploring **Generative AI** and integrating LLMs into real products
+- ⚡ Building **real-time apps** with Socket.io and **RAG-based AI assistants** with Python
 - 📚 Always learning — DSA, system design, and modern web architecture
+
+---
+
+### 🌱 Currently Working On
+
+- 🚧 **SchemeWise** — an AI government scheme & document assistant (rule-based eligibility engine + RAG over uploaded PDFs). *Still in progress — more coming soon!*
+- 🎨 **Imagify 2.0** — evolving from a text-to-image tool into a real-time collaborative AI creative studio
+- 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/tina_0208/)
 
 ---
 
@@ -30,6 +39,7 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,13 +55,17 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 **AI, Cloud & Tools**
 
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,16 +82,16 @@
 <tr>
 <td width="50%">
 
-**🖼️ [Imagify](https://github.com/pragati956/Imagify)**
+**🎨 [Imagify 2.0](https://github.com/pragati956/Imagify)** · [Live Demo](https://imagify-six-ochre.vercel.app)
 
-Full-stack Text-to-Image Generator AI SaaS app built on the MERN stack — turns text prompts into AI-generated images with a credit-based usage system.
+Real-time AI creative studio on the MERN stack — grew from a text-to-image SaaS into a collaborative workspace. Live rooms via Socket.io, image-to-image style referencing with Gemini, project workspaces with role-based access (Owner / Editor / Viewer), team chat with anti-spam cooldown, a content-safety filter, and the FLUX model via Pollinations.ai. Razorpay-powered credits.
 
-`React` `Node.js` `Express` `MongoDB` `AI Image Generation`
+`React 19` `Node.js` `Express` `MongoDB` `Socket.io` `Gemini AI` `FLUX` `Razorpay`
 
 </td>
 <td width="50%">
 
-**📄 [DocuMind](https://github.com/pragati956/DocuMind)**
+**📄 [DocuMind](https://github.com/pragati956/DocuMind)** · [Live Demo](https://YOUR-DOCUMIND-LIVE-URL)
 
 AI-powered document management platform to upload, organize, search, and summarize documents using Gemini AI, with Cloudinary storage and JWT/OAuth authentication.
 
@@ -88,6 +102,20 @@ AI-powered document management platform to upload, organize, search, and summari
 <tr>
 <td width="50%">
 
+**🏛️ [SchemeWise](https://github.com/tiwarianshi/SchemeWise)** 🚧 *In Progress*
+
+AI government scheme & document assistant. A rule-based eligibility engine (`all_of` / `any_of` / `if_then`) plus a RAG pipeline — PDF upload, chunking, embeddings, ChromaDB vector search — to answer questions about official documents. Tested with Pytest.
+
+`React` `Vite` `FastAPI` `Python` `ChromaDB` `PyMuPDF` `RAG`
+
+</td>
+<td width="50%">
+
+**🏦 [Banking System Ledger Backend](https://github.com/pragati956/Banking_system_ledger_backend)**
+
+RESTful backend API for a banking ledger system with account management, transactions, and balance tracking.
+
+`Node.js` `Express` `REST API`
 
 </td>
 </tr>
@@ -112,11 +140,18 @@ AI-powered document management platform to upload, organize, search, and summari
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-10%25-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati956&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 
 </div>
+
+---
+
+### 🏆 Highlights
+
+- 🦈 **Pull Shark** achievement on GitHub
+- 🎨 Shipped and deployed **Imagify** (96+ commits) — [live on Vercel](https://imagify-six-ochre.vercel.app)
+- 🤖 Built AI-powered full-stack apps with **Gemini**, **RAG** and **real-time WebSockets**
+- 🧠 Solving DSA problems on LeetCode
 
 ---
 
@@ -124,31 +159,19 @@ AI-powered document management platform to upload, organize, search, and summari
 
 <div align="center">
 
-<!-- Replace the # below with your actual profile links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-singh0208/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tina_0208/)
+[![Imagify](https://img.shields.io/badge/Live_Demo-Imagify-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://imagify-six-ochre.vercel.app)
+[![DocuMind](https://img.shields.io/badge/Live_Demo-DocuMind-8E75B2?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-DOCUMIND-LIVE-URL)
 
 </div>
+
+<!-- Add Email / Portfolio / X badges here once you have real links:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+-->
 
 <div align="center">
 
 ⭐️ **From [pragati956](https://github.com/pragati956) — thanks for stopping by!** ⭐️
 
 </div>
-
-<!--
-**pragati956/pragati956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
